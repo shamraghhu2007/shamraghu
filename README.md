@@ -1,2 +1,1 @@
-# shamraghu
-thisismyfirstrepositor
+thisismyrepository
